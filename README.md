@@ -12,7 +12,7 @@ From France (Paris)
 ## 🌈 Here some of my projects:
 
 #### Lua:
-- [gloutoblop/penetration-indicator.lua](https://github.com/Gloutoblop/Penetration-indicator/blob/main/penetration_indicator.lua), Penetration indicator for skeet with rainbow mode
+- [gloutoblop/penetration_indicator.lua](https://github.com/Gloutoblop/gamesense_lua/blob/main/penetration_indicator.lua), Penetration indicator for skeet with rainbow mode
 - ...
 - ...
 
