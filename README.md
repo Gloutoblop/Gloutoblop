@@ -13,7 +13,7 @@ From France (Paris)
 
 #### Lua:
 - [gloutoblop/penetration_indicator.lua](https://github.com/Gloutoblop/gamesense_lua/blob/main/penetration_indicator.lua), Penetration indicator for skeet with rainbow mode
-- [gloutoblop/anti_bruteforce_timer.lua](https://github.com/Gloutoblop/gamesense_lua/blob/main/anti_bruteforce_timer.lua), Anti-Bruteforce with timer reset and indicators
+- [gloutoblop/anti_bruteforce_timer.lua](https://github.com/Gloutoblop/gamesense_lua/blob/main/anti_bruteforce_timer.lua), Anti-Bruteforce with timer reset and indicators for skeet
 - ...
 
 #### C++:
